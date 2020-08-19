@@ -4,6 +4,8 @@ CRI-O is light-weight Container Runtime Interface for Kubernetes.
 
 **rootless**, **daemon-less** container that improve Docker Cons
 
+![cri](https://i.imgur.com/nUAYZiq.png)
+
 ### CRI-O Container without Docker
 
 * [CLI] crictl/podman (replace Docker CLI)
